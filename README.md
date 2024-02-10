@@ -4,7 +4,8 @@
 
 <h2>👨‍💻 Cybersecurity / IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/techwithwana/ActiveDirectoryLab)
+- [Active Directory: Virtual Network Setup & User Management](https://github.com/techwithwana/ActiveDirectoryLab)
+- [Detecting Live Cyber Attacks: Microsoft Sentinel & Azure Honeypot VM](https://github.com/techwithwana/MicrosoftSentinelHoneypotLab)
 
 <h2>📝 Certifications</h2>
 
