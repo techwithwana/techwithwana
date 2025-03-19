@@ -1,5 +1,5 @@
 <h1>Hi, I'm Anwana!
-<br/>IT Professional and Emerging Cybersecurity Analyst</h1>
+<br/>IT Professional and Technical Solutions Specialist</h1>
 <p>Welcome to my Portfolio – a showcase of my journey and projects in the world of Information Technology and Cybersecurity.</p>
 
 <h2>👨‍💻 Cybersecurity / IT Projects:</h2>
